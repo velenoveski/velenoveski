@@ -11,6 +11,9 @@
 List of projects:
 <ul>
   <li>Insurance-Claims-Handling-API </li>
+    <ul>
+    <li>NET 7 (multi-tier application) API for handling insurance claims</li>
+  </ul> 
   <li>Inspection-API</li>
   <li>Inspection-UI</li>
   <li>Booking-System-API</li>
@@ -18,6 +21,8 @@ List of projects:
   <li>ReceiptScanner</li> 
 </ul>
 <hr/>
+
+For reviewing of these project please send me request on vele.noveski@gmail.com
 
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

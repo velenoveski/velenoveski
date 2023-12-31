@@ -14,23 +14,23 @@ List of projects:
     <ul>
        <li>NET 7 (multi-tier application) API for handling insurance claims.</li>
     </ul> 
-  <li>Inspection-API</li>
+  <li><b>Inspection-API</b></li>
       <ul>
        <li>.NET 6 API for handling inspections.</li>
     </ul> 
-  <li>Inspection-UI</li>
+  <li><b>Inspection-UI</b></li>
     <ul>
          <li>Angular 13 Web Application for handling inspections.</li>
     </ul> 
-  <li>Booking-System-API</li>
+  <li><b>Booking-System-API</b></li>
      <ul>
        <li>.NET 6 (Microservice) API for booking resources.</li>
     </ul> 
-  <li>Booking-System-UI</li>
+  <li><b>Booking-System-UI</b></li>
    <ul>
      <li> Angular 13 Web Application for booking resources.</li>
     </ul> 
-  <li>ReceiptScanner</li> 
+  <li><b>ReceiptScanner</b></li> 
     <ul>
      <li> .NET 6 Console App for ReceiptScanner.</li>
     </ul> 

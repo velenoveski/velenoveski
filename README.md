@@ -8,7 +8,7 @@
 - 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
-List of projects:
+<h4>List of projects: </h4>
 <ul>
   <li><b>Insurance-Claims-Handling-API</b></li></li>
     <ul>

@@ -37,7 +37,7 @@ List of projects:
 </ul>
 <hr/>
 
-For reviewing of these projects please send me request on vele.noveski@gmail.com
+For reviewing of these projects please send me request on my LinkedIn Profile! 👆
 
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

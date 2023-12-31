@@ -10,7 +10,7 @@
 
 List of projects:
 <ul>
-  <li><b></b>Insurance-Claims-Handling-API </li>
+  <li><b></b>Insurance-Claims-Handling-API</li>b></li>
     <ul>
        <li>NET 7 (multi-tier application) API for handling insurance claims.</li>
     </ul> 

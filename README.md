@@ -34,6 +34,14 @@
     <ul>
      <li> .NET 6 Console App for ReceiptScanner.</li>
     </ul> 
+    <li><b>Coffee-Vending-Machine-API-ConsoleApp</b></li> 
+    <ul>
+     <li> .NET 7 API and Console App for Coffee Vending Machine</li>
+    </ul>
+    <li><b>Open-Weather-Map-API</b></li> 
+    <ul>
+     <li> .NET 7 API for gathering wheather information from 3rd party API</li>
+    </ul> 
 </ul>
 <hr/>
 

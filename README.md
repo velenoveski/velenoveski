@@ -30,11 +30,11 @@
    <ul>
      <li> Angular 13 Web Application for booking resources.</li>
     </ul> 
-  <li><b>ReceiptScanner</b></li> 
+  <li><b>ReceiptScanner-Console</b></li> 
     <ul>
      <li> .NET 6 Console App for ReceiptScanner.</li>
     </ul> 
-    <li><b>Coffee-Vending-Machine-API-ConsoleApp</b></li> 
+    <li><b>Coffee-Vending-Machine-API-Console</b></li> 
     <ul>
      <li> .NET 7 API and Console App for Coffee Vending Machine.</li>
     </ul>

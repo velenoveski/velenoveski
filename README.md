@@ -40,7 +40,7 @@
     </ul>
     <li><b>Open-Weather-Map-API</b></li> 
     <ul>
-     <li> .NET 7 API for gathering wheather information from 3rd party API</li>
+     <li> .NET 7 API for gathering weather information from 3rd party API</li>
     </ul> 
 </ul>
 <hr/>

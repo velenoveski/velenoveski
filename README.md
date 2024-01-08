@@ -44,7 +44,7 @@
     </ul> 
     <li><b>Negotiation-Offers-API: In Progress</b></li> 
     <ul>
-     <li> .NET 7 API for gathering weather information from 3rd party API.</li>
+     <li> .NET 8 API for Negotiations which gives sellers the ability to engage in sales negotiations with buyers.</li>
     </ul> 
 </ul>
 <hr/>

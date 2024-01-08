@@ -42,6 +42,10 @@
     <ul>
      <li> .NET 7 API for gathering weather information from 3rd party API.</li>
     </ul> 
+    <li><b>Negotiation-Offers-API: In Progress</b></li> 
+    <ul>
+     <li> .NET 7 API for gathering weather information from 3rd party API.</li>
+    </ul> 
 </ul>
 <hr/>
 

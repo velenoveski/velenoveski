@@ -7,7 +7,7 @@
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
 - 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
-
+<hr/>
 <h4>List of projects: </h4>
 <ul>
   <li><b>Insurance-Claims-Handling-API</b></li></li>

@@ -45,7 +45,7 @@
 </ul>
 <hr/>
 
-<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for starting a full stack project using .NET Core. ASP.MVC Core, Angular, Microsoft Azure, Docker, CosmosDB and etc. This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 or email me on vele.noveski@gmail.com in order to give collaborator access! </b> <br>
+<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for starting a full stack project using .NET Core. ASP.MVC Core, Angular, Microsoft Azure, Docker, CosmosDB, CI/CD Pipelines, GitHub Actions and etc. This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 or email me on vele.noveski@gmail.com in order to give collaborator access! </b> <br>
 
 Every project is made by 
 

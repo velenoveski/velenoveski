@@ -45,7 +45,7 @@
 </ul>
 <hr/>
 
-<b>These projects are my portfolio and for reviewing please send me request on my LinkedIn Profile! </b> 👆
+<b>These projects are my portfolio and are private. For reviewing, please send me request on my LinkedIn Profile 👆 or email me on vele.noveski@gmail.com in order to give collaborator actions! </b> 
 
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

@@ -4,8 +4,8 @@
 
 ## **I'm a Full Stack .NET Developer and Microsoft MVP.**
 
-- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, SOLID and some advanced software architectures.
-- 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, xUnit Testing, DevOps, CI/CD.
+- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, Microservices, DDD, SOLID and other advanced software architectures.
+- 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 <hr/>
 <h4>List of projects: </h4>

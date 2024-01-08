@@ -4,8 +4,8 @@
 
 ## **I'm a Full Stack .NET Developer and Microsoft MVP.**
 
-- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
-- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
+- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, SOLID and some advanced software architectures.
+- 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, xUnit Testing, DevOps, CI/CD.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 <hr/>
 <h4>List of projects: </h4>
@@ -49,7 +49,7 @@
 </ul>
 <hr/>
 
-<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, Azure SQL, CI/CD Pipelines, GitHub Actions and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give collaborator access! </b> <br>
+<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give collaborator access! </b> <br>
 <hr/>
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

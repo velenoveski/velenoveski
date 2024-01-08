@@ -45,7 +45,9 @@
 </ul>
 <hr/>
 
-<b>These projects are my portfolio and are private. For reviewing, please send me request on my LinkedIn Profile 👆 or email me on vele.noveski@gmail.com in order to give collaborator actions! </b> 
+<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for starting a full stack project using .NET Core. ASP.MVC Core, Angular, Microsoft Azure, Docker, CosmosDB and etc. This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 or email me on vele.noveski@gmail.com in order to give collaborator access! </b> <br>
+
+Every project is made by 
 
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

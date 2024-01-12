@@ -12,7 +12,7 @@
 <ul>
   <li><b>Insurance-Claims-Handling-API</b></li></li>
     <ul>
-       <li>NET 7 (multi-tier application) API for handling insurance claims.</li>
+       <li>.NET 7 (multi-tier application) API for handling insurance claims.</li>
 <b>Backend technology:</b><br>
 - .NET 7.0<br>
 - Entity Framework Core<br>

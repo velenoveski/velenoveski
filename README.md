@@ -47,15 +47,15 @@
     <ul>
      <li>ASP.NET Web Forms - Chat Web Application in C# using SignalR for broadcast messages to all connected clients simultaneously, like a chat room. Every connection has its own connection ID and each user has its own account.</li>
     </ul> 
-    <li><b>Coffee-Vending-Machine-API-Console: In Progress</b></li> 
+    <li><b>Coffee-Vending-Machine-API-Console</b></li> 
     <ul>
      <li> .NET 7 API and Console App for Coffee Vending Machine.</li>
     </ul>
-    <li><b>Open-Weather-Map-API: In Progress</b></li> 
+    <li><b>Open-Weather-Map-API</b></li> 
     <ul>
      <li> .NET 7 API for gathering weather information from 3rd party API.</li>
     </ul> 
-    <li><b>Negotiation-Offers-API: In Progress</b></li> 
+    <li><b>Negotiation-Offers-API</b></li> 
     <ul>
      <li> .NET 8 API for Negotiations which gives sellers the ability to engage in sales negotiations with buyers.</li>
     </ul> 

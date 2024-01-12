@@ -13,6 +13,21 @@
   <li><b>Insurance-Claims-Handling-API</b></li></li>
     <ul>
        <li>NET 7 (multi-tier application) API for handling insurance claims.</li>
+      <br>
+<h2></b>Backend technology:</h2>
+<br>
+- .NET 7.0<br>
+- Entity Framework Core<br>
+<br>
+<h2></b>Cloud technology stack used: </h2>
+<br>
+- Azure CosmosDB / Azure Cosmos DB Emulator<br>
+- Azure SQL Server<br>
+- Azure Web App service [API Management service]
+<br>
+<br>
+<h2>DevOps:</h2>
+- Established CI/CD Pipeline with Azure Devops and Github repo using Azure Deployment center via Azure Web App service.<br>
     </ul> 
   <li><b>Inspection-API</b></li>
       <ul>

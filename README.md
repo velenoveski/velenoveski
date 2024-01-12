@@ -19,7 +19,7 @@
 <b>Cloud technology stack used: </b>
 - Azure CosmosDB / Azure Cosmos DB Emulator<br>
 - Azure SQL Server<br>
-- Azure Web App service [API Management service]
+- Azure Web App service [API Management service]<br>
 <b>DevOps:</b><br>
 - Established CI/CD Pipeline with Azure Devops and Github repo using Azure Deployment center via Azure Web App service.<br>
     </ul> 

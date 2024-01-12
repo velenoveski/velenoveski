@@ -16,7 +16,7 @@
 <b>Backend technology:</b><br>
 - .NET 7.0<br>
 - Entity Framework Core<br>
-<b>Cloud technology stack used: </b><br>
+<b>Cloud technology stack: </b><br>
 - Azure CosmosDB / Azure Cosmos DB Emulator<br>
 - Azure SQL Server<br>
 - Azure Web App service [API Management service]<br>

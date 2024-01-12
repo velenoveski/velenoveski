@@ -36,7 +36,7 @@
     </ul> 
     <li><b>ChatSignalR-UI</b></li> 
     <ul>
-     <li>ASP.NET Web Forms - Chat Web Application in C# using SignalR for broadcast messages to all connected clients simultaneously, like a chat room. Every connection has its own connection ID.</li>
+     <li>ASP.NET Web Forms - Chat Web Application in C# using SignalR for broadcast messages to all connected clients simultaneously, like a chat room. Every connection has its own connection ID and each user has its own account.</li>
     </ul> 
     <li><b>Coffee-Vending-Machine-API-Console: In Progress</b></li> 
     <ul>

@@ -1,4 +1,4 @@
-<p align="left"># Welcome to my GitHub Portfolio! </p>
+# Welcome to my GitHub Portfolio! 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
 

@@ -1,8 +1,8 @@
 # Welcome to my GitHub Portfolio!
 ### Hi there, I'm Vele Noveski! 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/velenoveski)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
 
 ## **I'm a Full Stack .NET Developer and Microsoft MVP.**
 

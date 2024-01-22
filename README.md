@@ -10,7 +10,7 @@
 - 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, DTOs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 <hr/>
-<h4>List of projects: </h4>
+<h4>List of Repositories: </h4>
 <ul>
   <li><b>Insurance-Claims-Handling-API</b></li></li>
     <ul>
@@ -64,7 +64,7 @@
 </ul>
 <hr/>
 
-<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Framework, .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, MSSQL, PostgreSQL, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give collaborator access! </b> <br>
+<b>These projects are private and my profesional portfolio. They are consisting the latest approaches for long-term success and starting a full stack project using .NET Framework, .NET Core, .NET 6+, ASP.MVC Core, Angular, Microsoft Azure, Docker-compose, CosmosDB, MSSQL, PostgreSQL, Azure SQL, CI/CD Pipelines, GitHub Actions, xUnit Testing and etc.  <br> This list will continue growing in future. For reviewing, please send me request on my LinkedIn Profile 👆 in order to give you a collaborator access in my organization! </b> <br>
 <hr/>
 <a href="https://github.com/velenoveski">
   <img src="https://github-readme-stats.vercel.app/api?username=velenoveski&count_private=true&show_icons=true&hide=stars" />

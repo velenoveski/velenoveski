@@ -8,7 +8,7 @@
 ## **I'm a Full Stack .NET Developer | Microsoft MVP | .NET Trainer**
 
 ### Experienced Software Engineer with 7+ years experience in software development industry.
-
+### .NET Trainer in Full Stack .NET Development Academy at Change Academy.
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, Micro Services, DDD, SOLID and other advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, DTOs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆

@@ -44,6 +44,10 @@
    <ul>
      <li> Angular 13 Web Application for booking resources.</li>
     </ul> 
+    <li><b>xUnit-Tests-Inverter-Console</b></li> 
+    <ul>
+     <li> .NET 8 ConsoleApp for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
+    </ul> 
   <li><b>ReceiptScanner-Console</b></li> 
     <ul>
      <li> .NET 6 Console App for ReceiptScanner.</li>

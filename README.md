@@ -46,7 +46,7 @@
     </ul> 
   <li><b>xUnit-Tests-Inverter-Console</b></li> 
     <ul>
-     <li> .NET 8 ConsoleApp for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
+     <li> .NET 8 Console App for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
     </ul> 
   <li><b>ReceiptScanner-Console</b></li> 
     <ul>

@@ -27,6 +27,8 @@
 - Azure Web App service [API Management service]<br>
 <b>DevOps:</b><br>
 - Established CI/CD Pipeline with Azure Devops and Github repo using Azure Deployment center via Azure Web App service.<br>
+ <b>Testing tools:</b><br>
+- xUnit.<br>
     </ul> 
   <li><b>Inspection-API</b></li>
       <ul>

@@ -48,19 +48,20 @@
     </ul> 
   <li><b>xUnit-Tests-Inverter-Console</b></li> 
     <ul>
-     <li> .NET 8 Console App for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
+      <li> .NET 8 Console App for implemeting xUnitTests on Inverter class method Invert. Implemented SOLID Principles with async await.</li>
     </ul> 
   <li><b>ReceiptScanner-Console</b></li> 
     <ul>
-     <li> .NET 6 Console App for ReceiptScanner.</li>
+      <li> .NET 6 Console App for ReceiptScanner.</li>
     </ul> 
-    <li><b>ChatSignalR-UI</b></li> 
+      <li><b>ChatSignalR-UI</b></li> 
     <ul>
      <li>ASP.NET Web Forms - Chat Web Application in C# using SignalR for broadcast messages to all connected clients simultaneously, like a chat room. Every connection has its own connection ID and each user has its own account.</li>
-    <li><b>Power-Automation-MVP-UI </b></li> 
+    </ul>  
+      <li><b>Power-Automation-MVP-UI </b></li> 
     <ul>
      <li>ASP.NET MVC 5 Web App - Automation MVP is a completely customizable, digital automation solution that automatically and perfectly implements your specific business and financial processes.</li>
-    </ul> 
+    </ul>  
     <li><b>Coffee-Vending-Machine-API-Console</b></li> 
     <ul>
      <li> .NET 7 API and Console App for Coffee Vending Machine.</li>

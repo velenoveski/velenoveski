@@ -57,6 +57,9 @@
     <li><b>ChatSignalR-UI</b></li> 
     <ul>
      <li>ASP.NET Web Forms - Chat Web Application in C# using SignalR for broadcast messages to all connected clients simultaneously, like a chat room. Every connection has its own connection ID and each user has its own account.</li>
+    <li><b>Power-Automation-MVP-UI </b></li> 
+    <ul>
+     <li>ASP.NET MVC 5 Web App - Automation MVP is a completely customizable, digital automation solution that automatically and perfectly implements your specific business and financial processes.</li>
     </ul> 
     <li><b>Coffee-Vending-Machine-API-Console</b></li> 
     <ul>

@@ -5,10 +5,9 @@
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/velenoveski)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velenoveski&label=Profile%20views&color=0e75b6&style=flat" alt="velenoveski" /> </p>
 
-## **I'm a Full Stack .NET Developer | Microsoft MVP | .NET Trainer**
+## **I'm a Full Stack .NET Developer | Microsoft MVP**
 
 ### Experienced Software Engineer with 7+ years experience in software development industry.
-### .NET Trainer in Full Stack .NET Development Academy at Change Academy.
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, Micro Services, DDD, SOLID and other advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, DTOs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆

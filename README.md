@@ -108,7 +108,7 @@
   </section>
 
   <footer>
-    <p>With a proven track record of delivering transformative solutions across a spectrum of industries, my portfolio stands as a testament to my proficiency and dedication in full-stack development. For reviewing, please send me a request on my <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn Profile</a> 👆 in order to give you collaborator access in my organization <a href="https://github.com/velenoveski-org/">Velenoveski Org</a>!</p>
+    <p>With a proven track record of delivering transformative solutions across a spectrum of industries, my portfolio stands as a testament to my proficiency and dedication in full-stack development. For reviewing, please send me a request on my <a href="https://www.linkedin.com/in/velenoveski/">LinkedIn Profile</a> 👆 in order to give you collaborator access in my organization <a href="https://github.com/velenoveski-org/">Velenoveski Org</a>!</p>
   </footer>
 
 </body>

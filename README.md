@@ -86,7 +86,7 @@
   </header>
 
   <section>
-    <p>My private repositories encapsulate a wealth of expertise and innovation, serving as a testament to my commitment to excellence in full-stack development. Each project within my portfolio is meticulously crafted to exemplify the latest advancements and ensure enduring success in the dynamic landscape of software engineering.</p>
+    <p>My private repositories encapsulate a wealth of expertise and innovation, serving as a testament to my commitment to excellence in full-stack development. Each project within my portfolio is meticulously crafted to exemplify the latest advancements and ensure enduring success in the dynamic landscape of software engineering. The list of projects will continue to grow in the future, demanding the adoption of the latest upgrades and advancements in these technologies to maintain their relevance and effectiveness.</p>
   </section>
 
   <section>

@@ -7,7 +7,7 @@
 
 ## **I'm a Full Stack .NET Developer**
 
-### Experienced Software Engineer with 8+ years experience in software development industry.
+### Experienced Software Engineer with 9+ years experience in software development industry.
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, Micro Services, DDD, SOLID and other advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, SOLID, CQRS, RESTful APIs, DTOs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Microsoft Azure, xUnit Testing, DevOps, CI/CD Pipelines.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
